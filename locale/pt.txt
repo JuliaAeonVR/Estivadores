@@ -1,0 +1,13 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_F9979E3E_F43F_2247_41D1_BC4DFB31DC44.label = T_Fachada_Noite_EST
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 5
