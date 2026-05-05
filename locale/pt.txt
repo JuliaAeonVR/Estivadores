@@ -1,9 +1,45 @@
 #: locale=pt
 
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_F60EB36E_F931_DFED_41DA_DCB20F59C7BB.toolTip = Ir para: \
+Recepção
+
 ## Media
 
 ### Title
-panorama_F9979E3E_F43F_2247_41D1_BC4DFB31DC44.label = T_Fachada_Noite_EST
+panorama_F91CE50B_F48A_8CEA_41E8_E2FF5D7DE8D5.label = T_BanheiroFeminino_EST
+panorama_FF356134_F48A_873D_41D7_91EBCA5751D0.label = T_BanheiroMasculino_EST
+panorama_FF3E1A05_F48A_84DE_41DC_92DE206C9705.label = T_Bebedouro_Dia_EST
+panorama_EC01DB73_F970_EFFA_41E6_7AF8C9433823.label = T_Bebedouro_Noite_EST
+panorama_FF3E7491_F48A_8DF6_41E8_00A3BA3E1CDC.label = T_Cardio_Dia_EST
+panorama_EADB4510_F970_FB36_41EF_1730408D16A7.label = T_Cardio_Noite_EST
+panorama_FF3E2872_F48A_8535_41CD_33C773A88419.label = T_Container_Dia_EST
+panorama_EAD97973_F970_EBFA_41E8_16F5F6B2AE52.label = T_Container_Noite_EST
+panorama_FF3E323E_F48A_852D_41E4_8C9507A79D2B.label = T_Espelhao_Dia_EST
+panorama_EAD962F2_F970_DEFA_41E2_C61F98662824.label = T_Espelhao_Noite_EST
+panorama_FF3E0D6D_F48A_7F2F_41D9_2DAF5CC0DD7E.label = T_Fachada_Dia_EST
+panorama_EAD92D8B_F970_AB2A_41EC_55A762E70689.label = T_Fachada_Noite_EST
+panorama_FF39C7EE_F48D_8B2D_41D0_4DD6E2EB17B0.label = T_Gluteos_Dia_EST
+panorama_EAD96791_F970_A736_41C4_455BE3866258.label = T_Gluteos_Noite_EST
+panorama_FF3A33E9_F48D_8B57_41E6_F87608EDE40F.label = T_LegPress_Dia_EST
+panorama_EAD8B297_F971_593A_41EB_A01714C1E1DA.label = T_LegPress_Noite_EST
+panorama_FF3A1EF9_F48D_BD37_41E1_6B2B1CA60B06.label = T_Polias_Dia_EST
+panorama_EAD8BD56_F971_6B3A_419C_603D8F86A246.label = T_Polias_Noite_EST
+panorama_FF3A19AA_F48D_87D5_41E8_ABFD606A6070.label = T_PontoCentral_Dia_EST
+panorama_EAD8C78E_F971_672A_41E5_F47E2A0B1606.label = T_PontoCentral_Noite_EST
+panorama_FF3A1492_F48D_8DF5_41C3_F6FC434A4F1A.label = T_Recepcao_Dia_EST
+panorama_EAD8927F_F971_59EB_41E4_5994F096B822.label = T_Recepcao_Noite_EST
+panorama_FF3ABF2A_F48D_FCD5_41E6_96776B41DDE0.label = T_Stiffs_Dia_EST
+panorama_EAD8CCD4_F971_A93E_41C1_90DC01B4DB04.label = T_Stiffs_Noite_EST
+panorama_FF3A09FD_F48D_872F_41D9_BA42829B4A55.label = T_Supinos_Dia_EST
+panorama_EAD8F73D_F971_A76E_41C5_C41A40010E54.label = T_Supinos_Noite_EST
+
+## Skin
+
+### Image
+Image_DF8AF601_F931_D916_41ED_DF479C8C559B.url = skin/Image_DF8AF601_F931_D916_41ED_DF479C8C559B_pt.png
 
 ## Tour
 
